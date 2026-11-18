@@ -16,6 +16,19 @@ data bundled with the app — no backend, no API keys, no connection required af
 
 ---
 
+## Try it
+
+[**Download the Android APK**](https://drive.google.com/file/d/17qdo4Y6-jA-WxxoFqugAhw2MElcIjNg7/view?usp=sharing) · 99 MB · universal build, runs on any Android device
+
+Android blocks sideloaded apps by default, so the first time you open the file your
+browser or file manager will ask you to allow installs from it — allow, then tap the
+APK again.
+
+No account is needed. Tap **Explore the demo** on the welcome screen and you are
+straight into a populated app; nothing is uploaded and nothing is asked for.
+
+---
+
 ## Screens
 
 <p align="center">
